@@ -4,7 +4,7 @@
 
 !['Login + Search + Chatting'](https://github.com/FedorMashoshin/btf_APP/blob/master/README%20DOCS/BTF_Login%2BSearch%2BChatting.gif)
 
-## Create nee Adding
+## Create new Add
 
 !['Creating new add'](https://github.com/FedorMashoshin/btf_APP/blob/master/README%20DOCS/BTF_CreateAdd.gif)
 
