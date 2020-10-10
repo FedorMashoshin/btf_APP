@@ -2,7 +2,7 @@
 
 ## Login + Search + Chatting.
 
-!['Login + Search + Chatting'](https://github.com/FedorMashoshin/btf_APP/tree/master/README%20DOCS)
+!['Login + Search + Chatting'](https://github.com/FedorMashoshin/btf_APP/blob/master/README%20DOCS/BTF_Login%2BSearch%2BChatting.gif)
 
 ## Create nee Adding
 
